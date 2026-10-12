@@ -29,11 +29,14 @@ div, section {
     border-bottom: var(--borders);
 }
 
+h1, h2, h3 {
+    font-family: sans-serif;
+}
+
 h1{
     width: 90%;
     color: var(--heading-color);
     font-size: 3rem;
-    font-family: sans-serif;
     text-align: center;
 }
 
